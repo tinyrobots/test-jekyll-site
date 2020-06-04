@@ -9,6 +9,6 @@
 ## Testing embedding
 Say we wanted to include some content that existed at a second location, like
 
-{% include_relative ./cv/book chapters.md %}
+{% include_relative cv/book chapters.md %}
 
 ...and then we return to the main doc?
