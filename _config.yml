@@ -14,7 +14,7 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-theme: minimal-mistakes-jekyll
+remote-theme: minimal-mistakes-jekyll
 
 title: Dr Kate Storrs
 description: New site under construction. For now, go to www.katestorrs.com
