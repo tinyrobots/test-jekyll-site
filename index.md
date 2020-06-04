@@ -11,8 +11,8 @@ This website is under construction, playing around with Github pages and Obsidia
 
 Some text before a table...
 
-| [1](./cv/book_chapters.md) | **2** | **3** | **4** | **5** | **6** | **7** |
-| --- | --- | --- | --- | --- | --- | --- |
-| . | . | . | . | . | . | . |
-| . | . | . | . | . | . | . |
+| [1](./cv/book_chapters.md) | **second heading** | **third** |
+| :---: | :---: | :---: |
+| empty1 | empty2 | empty3 |
+
 ---
