@@ -7,7 +7,7 @@
  - [Book chapters](./cv/book chapters.md).
 
 ## Testing embedding
-Say we wanted to include some content that existed at a second location, like:
+Say we wanted to include some content that existed at a second location, like
 
 {% include_relative ./cv/book chapters.md %}
 
