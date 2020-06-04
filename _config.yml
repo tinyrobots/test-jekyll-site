@@ -17,4 +17,5 @@ theme: jekyll-theme-cayman
 # below are Cayman options
 title: Dr Kate Storrs
 description: Visual perception science
-show_downloads: "false"
+github:
+  is_project_page: false
