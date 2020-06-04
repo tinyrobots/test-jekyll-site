@@ -1,5 +1,5 @@
-# [current working site](https://www.katestorrs.com)
- This website under construction, testing simple static site building from scratch.
+# [>>> go to proper site](https://www.katestorrs.com)
+ This website is under construction, playing around with Github pages and Obsidian note integration.
 
 ## Publications
  - Current [preprints](./cv/preprints and under review articles.md) or under-review papers.
