@@ -3,5 +3,5 @@
 
 ## Publications
  - Current [preprints](./cv/preprints and under review articles.md) or under-review papers.
- - Peer reviewed [journal articles](peer reviewed journal articles.md) and [conference proceedings](peer reviewed conference proceedings.md).
- - [Book chapters](book chapters.md).
+ - Peer reviewed [journal articles](./cv/peer reviewed journal articles.md) and [conference proceedings](./cv/peer reviewed conference proceedings.md).
+ - [Book chapters](./cv/book chapters.md).
