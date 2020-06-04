@@ -1,4 +1,4 @@
 # test-jekyll-site
  Testing simple static site building from scratch
 
- [[./link-test]]
+ Here is a [linked page](./link-test).
