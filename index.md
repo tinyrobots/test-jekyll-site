@@ -7,6 +7,10 @@ This website is under construction, playing around with Github pages and Obsidia
 - [Book chapters](./cv/book chapters.md).
 - Additional test bullet point.
 
-Some text
-{% include_relative cv/testfile.md %}
+---
+
+Some text before the embed...
+
+{% include_relative cv/book_chapters.md %}
+
 ...and then some more text after the embed.
