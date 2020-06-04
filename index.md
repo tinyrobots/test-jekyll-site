@@ -10,8 +10,13 @@ This website is under construction, playing around with Github pages and Obsidia
 ---
 
 Some text before a table...
-
+<!-- 
 | tables | as | menus? |
 | --- | --- | --- |
-| [link1]((./cv/book_chapters.md))      | [link2]((./cv/book_chapters.md)) | [link3]((./cv/book_chapters.md)) |
+| [link1]((./cv/book_chapters.md))      | [link2]((./cv/book_chapters.md)) | [link3]((./cv/book_chapters.md)) | -->
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 ---
