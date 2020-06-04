@@ -12,3 +12,8 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+
+theme: jekyll-theme-cayman
+# below are Cayman options
+title: Dr Kate Storrs
+description: Visual perception science
