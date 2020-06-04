@@ -1,0 +1,6 @@
+- **Storrs, K. R.** & Fleming, R. W. (under review). Learning about the world by learning about images. Current Directions in Psychological Science [[Current Directions]]
+- **Storrs, K. R.** & Maiello, G. (under review) A model for neural network modelling in neuroscience: Journal Club commentary on Rideaux & Welchman (2020). Journal of Neuroscience.
+- **Storrs, K. R.**, Kietzmann, T. C., Walther, A., Mehrer, J. & Kriegeskorte, N. (2020) Diverse deep neural networks all predict human IT well, after training and fitting. bioRxiv: 2020.05.07.082743. https://doi.org/10.1101/2020.05.07.082743
+- Tsantani, M., Kriegeskorte, N., **Storrs, K. R.**, Williams, A. L., McGettigan, C. & Garrido, L. (2020). FFA and OFA encode distinct types of face identity information. bioRxiv: 2020.05.12.090878. https://doi.org/10.1101/2020.05.12.090878
+- **Storrs, K. R.** & Fleming, R. W. (2020). Unsupervised Learning Predicts Human Perception and Misperception of Specular Surface Reflectance. bioRxiv: 2020.04.07.026120 https://doi.org/10.1101/2020.04.07.026120 [[Bumpworld]]
+- **Storrs, K. R.**, Khaligh-Razavi, S.-M. & Kriegeskorte, N. (2020). Noise ceiling on the crossvalidated performance of reweighted models of representational dissimilarity: Addendum to Khaligh-Razavi & Kriegeskorte (2014). bioRxiv: 2020.03.23.003046 https://doi.org/10.1101/2020.03.23.003046
