@@ -6,3 +6,7 @@ This website is under construction, playing around with Github pages and Obsidia
 - Peer reviewed [journal articles](./cv/peer reviewed journal articles.md) and [conference proceedings](./cv/peer reviewed conference proceedings.md).
 - [Book chapters](./cv/book chapters.md).
 - Additional test bullet point.
+
+Some text
+{% include_relative cv/testfile.md %}
+...and then some more text after the embed.
