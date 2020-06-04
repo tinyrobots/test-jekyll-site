@@ -1,4 +1,4 @@
-# [>>> go to proper site](https://www.katestorrs.com)
+# [>> go to proper site](https://www.katestorrs.com)
  This website is under construction, playing around with Github pages and Obsidian note integration.
 
 ## Publications
