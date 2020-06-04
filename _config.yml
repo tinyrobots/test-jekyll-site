@@ -1,5 +1,6 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-include-cache # needed by minimal mistakes theme
 relative_links:
   enabled: true
   collections: true
@@ -13,9 +14,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-theme: jekyll-theme-cayman
-# below are Cayman options
-title: Dr Kate Storrs
-description: Visual perception science
-github:
-  is_project_page: false
+theme: minimal-mistakes-jekyll
