@@ -1,6 +1,6 @@
 | [research summary](https://www.katestorrs.com) | [publications](https://www.katestorrs.com) | [science communication](https://www.katestorrs.com) | [sideprojects](https://www.katestorrs.com) | [resources](https://www.katestorrs.com) | [contact](https://www.katestorrs.com) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![](./img/eyeball.jpg){:height="80px" width="80px"} | ![](./img/eyeball.jpg){:height="80px" width="80px"} | ![](./img/eyeball.jpg){:height="80px" width="80px"} | ![](./img/eyeball.jpg){:height="80px" width="80px"} | ![](./img/eyeball.jpg){:height="80px" width="80px"} | ![](./img/eyeball.jpg){:height="80px" width="80px"} |
+| ![](./img/eyeball.jpg){:height="70px" width="70px"} | ![](./img/eyeball.jpg){:height="70px" width="70px"} | ![](./img/eyeball.jpg){:height="70px" width="70px"} | ![](./img/eyeball.jpg){:height="70px" width="70px"} | ![](./img/eyeball.jpg){:height="70px" width="70px"} | ![](./img/eyeball.jpg){:height="70px" width="70px"} |
 
 ---
 
