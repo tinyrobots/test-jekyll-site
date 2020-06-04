@@ -11,9 +11,7 @@ This website is under construction, playing around with Github pages and Obsidia
 
 Some text before a table...
 
-| funder | ID | invited date | accepted? | revision? | due | completed |
+| [1](./cv/book_chapters.md) | **2** | **3** | **4** | **5** | **6** | **7** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Hong Kong Research Council | n/a | 2020-03-12 | Y | N | n/a | n/a |
-| Hong Kong Research Council | [[UGC-FDS15-H08-20]] | 2020-05-14 | Y | N | 2020-05-29 | [[2020-06-02]] |
-
+| . | . | . | . | . | . | . |
 ---
