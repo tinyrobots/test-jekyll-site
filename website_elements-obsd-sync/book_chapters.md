@@ -1,2 +1,3 @@
+- **Storrs, K. R.** (2020) Fake Book Chapter. _Best Book_
 - **Storrs, K. R.** & Kriegeskorte, N. (2020). Deep learning for cognitive neuroscience. In M. Gazzaniga (Ed.), The Cognitive Neurosciences (6th Edition). Boston: MIT Press.
 - Greenaway, K., Philipp, M. C. & **Storrs, K. R.** (2017). The motivation for control: Loss of control promotes energy, action and effort. In M. Bukowski, I. Fritsche, A. Guinote, & M.Kofta (Eds.), Coping with Lack of Control in a Social World (Chap. 2, pp. 35–48). New York: Routledge.
