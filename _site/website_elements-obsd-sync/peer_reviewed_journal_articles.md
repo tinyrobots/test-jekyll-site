@@ -1,0 +1,14 @@
+- Fleming, R. W. & **Storrs, K. R.** (2019). Learning to see stuff. _Current Opinions in Behavioral Sciences, 30_, 100-108.
+- Jóźwik, K., Kriegeskorte, N., **Storrs, K. R.**, & Mur, M. (2017). Deep convolutional neural networks outperform feature-based but not categorical models in explaining object similarity judgements. _Frontiers in Psychology, 8_, 1726.
+- **Storrs, K. R.** & Arnold, D. H. (2017). Shape adaptation exaggerates shape differences. _Journal of Experimental Psychology: Human Perception and Performance, 43_(1), 181-191.
+- Kriegeskorte, N. & **Storrs, K. R.** (2016). Grid cells for conceptual spaces? _Neuron, 92_(2), 280-284.
+- Pelekanos, V., Mur, M., & **Storrs, K. R.** (2016). Extracting object identity: ventral or dorsal visual stream? _Journal of Neuroscience, 36_(24), 6368-6370.
+- **Storrs, K. R.** & Arnold, D. H. (2015). Face aftereffects involve local repulsion, not renormalization. _Journal of Vision, 15_(8), 1–18.
+- **Storrs, K. R.** (2015). Facial age aftereffects provide some evidence for local repulsion (but none for re-normalisation). _i-Perception, 6_(2), 100–103.
+- **Storrs, K. R.** (2015). Are high-level aftereffects perceptual? _Frontiers in Psychology, 6_(157), 1–4.
+- **Storrs, K. R.** & Arnold, D. H. (2015). Evidence for tilt normalization can be explained by anisotropic orientation sensitivity. _Journal of Vision, 15_(1), 1–11.
+- Greenaway, K. H., **Storrs, K. R.**, Philipp, M. C., Louis, W. R., Hornsey, M. J., & Vohs, K. D. (2015). Loss of control stimulates approach motivation. _Journal of Experimental Social Psychology, 56_, 235–241.
+- Spence, M., **Storrs, K. R.**, & Arnold, D. H. (2014). Why the long face? the critical role of vertical configural relations in face ‘barcodes’ for recognition. _Journal of Vision, 14_(8), 1–12.
+- **Storrs, K. R.** & Arnold, D. H. (2013). Shape aftereffects reflect shape constancy operations: appearance matters. _Journal of Experimental Psychology: Human Perception and Performance, 39_(3), 616–622.
+- **Storrs, K. R.** & Arnold, D. H. (2012). Not all face aftereffects are equal. _Vision Research, 64_, 7–16.
+- Philipp, M. C., **Storrs, K. R.**, & Vanman, E. J. (2012). Sociality of facial expressions in immersive virtual environments: a facial EMG study. _Biological Psychology, 91_(1), 17–21.

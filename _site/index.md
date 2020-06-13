@@ -9,13 +9,13 @@ This website is under construction, playing around with Github pages and Obsidia
 
 ## Publications
 #### Preprints and under-review
-{% include_relative cv/preprints_and_under_review_articles.md %}
+{% include_relative website_elements-obsd-sync/preprints_and_under_review_articles.md %}
 
 #### Journal articles
-{% include_relative cv/peer_reviewed_journal_articles.md %}
+{% include_relative website_elements-obsd-sync/peer_reviewed_journal_articles.md %}
 
 #### Conference proceedings
-{% include_relative cv/peer_reviewed_conference_proceedings.md %}
+{% include_relative website_elements-obsd-sync/peer_reviewed_conference_proceedings.md %}
 
 #### Book chapters
-{% include_relative cv/book_chapters.md %}
+{% include_relative website_elements-obsd-sync/book_chapters.md %}

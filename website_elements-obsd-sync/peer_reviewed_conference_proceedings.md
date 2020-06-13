@@ -1,0 +1,1 @@
+- **Storrs, K. R.**, Van Leuven, S., Kojder, S., Theis, L. & Huszár, F. (2018). Adaptive paired-comparison method for subjective video quality assessment on mobile devices. _Proceedings of the 33rd Picture Coding Symposium_, IEEE Signal Processing Society.
